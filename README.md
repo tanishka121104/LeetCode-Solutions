@@ -1,3 +1,11 @@
 # LeetCode Solutions
 
 A collection of my LeetCode solutions, covering Python, SQL, and algorithmic problem-solving.
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Database
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1378-replace-employee-id-with-the-unique-identifier](https://github.com/tanishka121104/LeetCode-Solutions/tree/main/1378-replace-employee-id-with-the-unique-identifier/) | Easy |
+<!---LeetCode Topics End-->
