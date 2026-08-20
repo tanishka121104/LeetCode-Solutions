@@ -7,6 +7,7 @@ A collection of my LeetCode solutions, covering Python, SQL, and algorithmic pro
 ## Database
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0185-department-top-three-salaries](https://github.com/tanishka121104/LeetCode-Solutions/tree/main/0185-department-top-three-salaries/) | Hard |
 | [0197-rising-temperature](https://github.com/tanishka121104/LeetCode-Solutions/tree/main/0197-rising-temperature/) | Easy |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/tanishka121104/LeetCode-Solutions/tree/main/0570-managers-with-at-least-5-direct-reports/) | Medium |
 | [0577-employee-bonus](https://github.com/tanishka121104/LeetCode-Solutions/tree/main/0577-employee-bonus/) | Easy |
