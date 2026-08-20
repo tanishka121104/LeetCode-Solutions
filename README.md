@@ -8,6 +8,7 @@ A collection of my LeetCode solutions, covering Python, SQL, and algorithmic pro
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0197-rising-temperature](https://github.com/tanishka121104/LeetCode-Solutions/tree/main/0197-rising-temperature/) | Easy |
+| [0577-employee-bonus](https://github.com/tanishka121104/LeetCode-Solutions/tree/main/0577-employee-bonus/) | Easy |
 | [0620-not-boring-movies](https://github.com/tanishka121104/LeetCode-Solutions/tree/main/0620-not-boring-movies/) | Easy |
 | [1068-product-sales-analysis-i](https://github.com/tanishka121104/LeetCode-Solutions/tree/main/1068-product-sales-analysis-i/) | Easy |
 | [1251-average-selling-price](https://github.com/tanishka121104/LeetCode-Solutions/tree/main/1251-average-selling-price/) | Easy |
