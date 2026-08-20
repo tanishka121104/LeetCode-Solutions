@@ -15,4 +15,5 @@ A collection of my LeetCode solutions, covering Python, SQL, and algorithmic pro
 | [1280-students-and-examinations](https://github.com/tanishka121104/LeetCode-Solutions/tree/main/1280-students-and-examinations/) | Easy |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/tanishka121104/LeetCode-Solutions/tree/main/1378-replace-employee-id-with-the-unique-identifier/) | Easy |
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/tanishka121104/LeetCode-Solutions/tree/main/1581-customer-who-visited-but-did-not-make-any-transactions/) | Easy |
+| [1661-average-time-of-process-per-machine](https://github.com/tanishka121104/LeetCode-Solutions/tree/main/1661-average-time-of-process-per-machine/) | Easy |
 <!---LeetCode Topics End-->
