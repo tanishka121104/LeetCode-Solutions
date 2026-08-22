@@ -23,6 +23,7 @@ A collection of my LeetCode solutions, covering Python, SQL, and algorithmic pro
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/tanishka121104/LeetCode-Solutions/tree/main/1581-customer-who-visited-but-did-not-make-any-transactions/) | Easy |
 | [1633-percentage-of-users-attended-a-contest](https://github.com/tanishka121104/LeetCode-Solutions/tree/main/1633-percentage-of-users-attended-a-contest/) | Easy |
 | [1661-average-time-of-process-per-machine](https://github.com/tanishka121104/LeetCode-Solutions/tree/main/1661-average-time-of-process-per-machine/) | Easy |
+| [1729-find-followers-count](https://github.com/tanishka121104/LeetCode-Solutions/tree/main/1729-find-followers-count/) | Easy |
 | [1934-confirmation-rate](https://github.com/tanishka121104/LeetCode-Solutions/tree/main/1934-confirmation-rate/) | Medium |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/tanishka121104/LeetCode-Solutions/tree/main/2356-number-of-unique-subjects-taught-by-each-teacher/) | Easy |
 <!---LeetCode Topics End-->
