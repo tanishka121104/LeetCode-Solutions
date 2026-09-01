@@ -12,6 +12,7 @@ A collection of my LeetCode solutions, covering Python, SQL, and algorithmic pro
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/tanishka121104/LeetCode-Solutions/tree/main/0570-managers-with-at-least-5-direct-reports/) | Medium |
 | [0577-employee-bonus](https://github.com/tanishka121104/LeetCode-Solutions/tree/main/0577-employee-bonus/) | Easy |
 | [0596-classes-with-at-least-5-students](https://github.com/tanishka121104/LeetCode-Solutions/tree/main/0596-classes-with-at-least-5-students/) | Easy |
+| [0610-triangle-judgement](https://github.com/tanishka121104/LeetCode-Solutions/tree/main/0610-triangle-judgement/) | Easy |
 | [0620-not-boring-movies](https://github.com/tanishka121104/LeetCode-Solutions/tree/main/0620-not-boring-movies/) | Easy |
 | [1068-product-sales-analysis-i](https://github.com/tanishka121104/LeetCode-Solutions/tree/main/1068-product-sales-analysis-i/) | Easy |
 | [1070-product-sales-analysis-iii](https://github.com/tanishka121104/LeetCode-Solutions/tree/main/1070-product-sales-analysis-iii/) | Medium |
