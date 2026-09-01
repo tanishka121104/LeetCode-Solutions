@@ -20,6 +20,7 @@ A collection of my LeetCode solutions, covering Python, SQL, and algorithmic pro
 | [1211-queries-quality-and-percentage](https://github.com/tanishka121104/LeetCode-Solutions/tree/main/1211-queries-quality-and-percentage/) | Easy |
 | [1251-average-selling-price](https://github.com/tanishka121104/LeetCode-Solutions/tree/main/1251-average-selling-price/) | Easy |
 | [1280-students-and-examinations](https://github.com/tanishka121104/LeetCode-Solutions/tree/main/1280-students-and-examinations/) | Easy |
+| [1327-list-the-products-ordered-in-a-period](https://github.com/tanishka121104/LeetCode-Solutions/tree/main/1327-list-the-products-ordered-in-a-period/) | Easy |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/tanishka121104/LeetCode-Solutions/tree/main/1378-replace-employee-id-with-the-unique-identifier/) | Easy |
 | [1517-find-users-with-valid-e-mails](https://github.com/tanishka121104/LeetCode-Solutions/tree/main/1517-find-users-with-valid-e-mails/) | Easy |
 | [1527-patients-with-a-condition](https://github.com/tanishka121104/LeetCode-Solutions/tree/main/1527-patients-with-a-condition/) | Easy |
