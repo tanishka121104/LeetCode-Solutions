@@ -14,6 +14,7 @@ A collection of my LeetCode solutions, covering Python, SQL, and algorithmic pro
 | [0596-classes-with-at-least-5-students](https://github.com/tanishka121104/LeetCode-Solutions/tree/main/0596-classes-with-at-least-5-students/) | Easy |
 | [0620-not-boring-movies](https://github.com/tanishka121104/LeetCode-Solutions/tree/main/0620-not-boring-movies/) | Easy |
 | [1068-product-sales-analysis-i](https://github.com/tanishka121104/LeetCode-Solutions/tree/main/1068-product-sales-analysis-i/) | Easy |
+| [1070-product-sales-analysis-iii](https://github.com/tanishka121104/LeetCode-Solutions/tree/main/1070-product-sales-analysis-iii/) | Medium |
 | [1075-project-employees-i](https://github.com/tanishka121104/LeetCode-Solutions/tree/main/1075-project-employees-i/) | Easy |
 | [1141-user-activity-for-the-past-30-days-i](https://github.com/tanishka121104/LeetCode-Solutions/tree/main/1141-user-activity-for-the-past-30-days-i/) | Easy |
 | [1211-queries-quality-and-percentage](https://github.com/tanishka121104/LeetCode-Solutions/tree/main/1211-queries-quality-and-percentage/) | Easy |
