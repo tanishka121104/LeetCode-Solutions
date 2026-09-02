@@ -33,6 +33,7 @@ A collection of my LeetCode solutions, covering Python, SQL, and algorithmic pro
 | [1517-find-users-with-valid-e-mails](https://github.com/tanishka121104/LeetCode-Solutions/tree/main/1517-find-users-with-valid-e-mails/) | Easy |
 | [1527-patients-with-a-condition](https://github.com/tanishka121104/LeetCode-Solutions/tree/main/1527-patients-with-a-condition/) | Easy |
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/tanishka121104/LeetCode-Solutions/tree/main/1581-customer-who-visited-but-did-not-make-any-transactions/) | Easy |
+| [1587-bank-account-summary-ii](https://github.com/tanishka121104/LeetCode-Solutions/tree/main/1587-bank-account-summary-ii/) | Easy |
 | [1633-percentage-of-users-attended-a-contest](https://github.com/tanishka121104/LeetCode-Solutions/tree/main/1633-percentage-of-users-attended-a-contest/) | Easy |
 | [1661-average-time-of-process-per-machine](https://github.com/tanishka121104/LeetCode-Solutions/tree/main/1661-average-time-of-process-per-machine/) | Easy |
 | [1729-find-followers-count](https://github.com/tanishka121104/LeetCode-Solutions/tree/main/1729-find-followers-count/) | Easy |
