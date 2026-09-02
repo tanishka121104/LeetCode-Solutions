@@ -38,6 +38,7 @@ A collection of my LeetCode solutions, covering Python, SQL, and algorithmic pro
 | [1661-average-time-of-process-per-machine](https://github.com/tanishka121104/LeetCode-Solutions/tree/main/1661-average-time-of-process-per-machine/) | Easy |
 | [1729-find-followers-count](https://github.com/tanishka121104/LeetCode-Solutions/tree/main/1729-find-followers-count/) | Easy |
 | [1731-the-number-of-employees-which-report-to-each-employee](https://github.com/tanishka121104/LeetCode-Solutions/tree/main/1731-the-number-of-employees-which-report-to-each-employee/) | Easy |
+| [1741-find-total-time-spent-by-each-employee](https://github.com/tanishka121104/LeetCode-Solutions/tree/main/1741-find-total-time-spent-by-each-employee/) | Easy |
 | [1789-primary-department-for-each-employee](https://github.com/tanishka121104/LeetCode-Solutions/tree/main/1789-primary-department-for-each-employee/) | Easy |
 | [1934-confirmation-rate](https://github.com/tanishka121104/LeetCode-Solutions/tree/main/1934-confirmation-rate/) | Medium |
 | [1978-employees-whose-manager-left-the-company](https://github.com/tanishka121104/LeetCode-Solutions/tree/main/1978-employees-whose-manager-left-the-company/) | Easy |
