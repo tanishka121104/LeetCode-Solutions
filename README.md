@@ -30,6 +30,7 @@ A collection of my LeetCode solutions, covering Python, SQL, and algorithmic pro
 | [1327-list-the-products-ordered-in-a-period](https://github.com/tanishka121104/LeetCode-Solutions/tree/main/1327-list-the-products-ordered-in-a-period/) | Easy |
 | [1341-movie-rating](https://github.com/tanishka121104/LeetCode-Solutions/tree/main/1341-movie-rating/) | Medium |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/tanishka121104/LeetCode-Solutions/tree/main/1378-replace-employee-id-with-the-unique-identifier/) | Easy |
+| [1407-top-travellers](https://github.com/tanishka121104/LeetCode-Solutions/tree/main/1407-top-travellers/) | Easy |
 | [1517-find-users-with-valid-e-mails](https://github.com/tanishka121104/LeetCode-Solutions/tree/main/1517-find-users-with-valid-e-mails/) | Easy |
 | [1527-patients-with-a-condition](https://github.com/tanishka121104/LeetCode-Solutions/tree/main/1527-patients-with-a-condition/) | Easy |
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/tanishka121104/LeetCode-Solutions/tree/main/1581-customer-who-visited-but-did-not-make-any-transactions/) | Easy |
