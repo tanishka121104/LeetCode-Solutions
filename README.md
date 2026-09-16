@@ -13,6 +13,7 @@ A collection of my LeetCode solutions, covering Python, SQL, and algorithmic pro
 | [0183-customers-who-never-order](https://github.com/tanishka121104/LeetCode-Solutions/tree/main/0183-customers-who-never-order/) | Easy |
 | [0185-department-top-three-salaries](https://github.com/tanishka121104/LeetCode-Solutions/tree/main/0185-department-top-three-salaries/) | Hard |
 | [0197-rising-temperature](https://github.com/tanishka121104/LeetCode-Solutions/tree/main/0197-rising-temperature/) | Easy |
+| [0262-trips-and-users](https://github.com/tanishka121104/LeetCode-Solutions/tree/main/0262-trips-and-users/) | Hard |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/tanishka121104/LeetCode-Solutions/tree/main/0570-managers-with-at-least-5-direct-reports/) | Medium |
 | [0577-employee-bonus](https://github.com/tanishka121104/LeetCode-Solutions/tree/main/0577-employee-bonus/) | Easy |
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/tanishka121104/LeetCode-Solutions/tree/main/0586-customer-placing-the-largest-number-of-orders/) | Easy |
