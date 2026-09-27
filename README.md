@@ -28,6 +28,7 @@ A collection of my LeetCode solutions, covering Python, SQL, and algorithmic pro
 | [1068-product-sales-analysis-i](https://github.com/tanishka121104/LeetCode-Solutions/tree/main/1068-product-sales-analysis-i/) | Easy |
 | [1070-product-sales-analysis-iii](https://github.com/tanishka121104/LeetCode-Solutions/tree/main/1070-product-sales-analysis-iii/) | Medium |
 | [1075-project-employees-i](https://github.com/tanishka121104/LeetCode-Solutions/tree/main/1075-project-employees-i/) | Easy |
+| [1084-sales-analysis-iii](https://github.com/tanishka121104/LeetCode-Solutions/tree/main/1084-sales-analysis-iii/) | Easy |
 | [1141-user-activity-for-the-past-30-days-i](https://github.com/tanishka121104/LeetCode-Solutions/tree/main/1141-user-activity-for-the-past-30-days-i/) | Easy |
 | [1193-monthly-transactions-i](https://github.com/tanishka121104/LeetCode-Solutions/tree/main/1193-monthly-transactions-i/) | Medium |
 | [1211-queries-quality-and-percentage](https://github.com/tanishka121104/LeetCode-Solutions/tree/main/1211-queries-quality-and-percentage/) | Easy |
